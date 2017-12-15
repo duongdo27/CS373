@@ -1,1 +1,1 @@
-web: gunicorn CS373.wsgigit
+web: gunicorn CS373.wsgi
